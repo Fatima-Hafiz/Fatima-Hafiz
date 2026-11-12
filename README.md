@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Fatima Hafiz 👋
 
-<!--
-**Fatima-Hafiz/Fatima-Hafiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science (Artificial Intelligence) Student** at Gulf College, Oman. 
+Passionate about building practical software solutions and applying AI concepts to solve real-world problems.
 
-Here are some ideas to get you started:
+** What I'm currently working on:**
+*   Building my foundation in Machine Learning and Data Analysis.
+*   Developing web applications using PHP and MySQL.
+*   Exploring Python and its applications in AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+** Technologies & Tools:**
+*   **Languages:** Python, SQL, PHP, JavaScript, HTML5, CSS3, Java
+*   **AI & Data:** Machine Learning (Fundamentals), Pandas, NumPy
+*   **Tools:** Git, GitHub, Cisco Packet Tracer, XAMPP
+
+** How to reach me:**
+*   **LinkedIn:** [linkedin.com/in/fatima-hafiz-83a7a9366](https://www.linkedin.com/in/fatima-hafiz-83a7a9366)
+*   **Email:** fatimahafiz889@gmail.com
+
+---
+*Always open to learning, collaborating on projects, and exploring internship opportunities!*
